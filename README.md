@@ -1,11 +1,14 @@
 # $ELEMENT
 
-![element](https://github.com/user-attachments/assets/1023b931-dd33-4f97-8d57-bce38d2e3027)
+<img src="https://github.com/user-attachments/assets/1023b931-dd33-4f97-8d57-bce38d2e3027" width="50%"/>
 
 
 Get ready to explore the world of chemistry in the world of crypto with ElementCoin ($ELEMENT), a unique token that brings the periodic table to life through the power of NFTs. 
 
 Each element from Mendeleïev's iconic chart is represented by a limited-edition NFT image, with scarcity based on the real-world rarity of each element in the universe.
+
+## Contact
+ - Telegram: https://t.me/+e6zYqBxLkXM3ZTA8
 
 ## Key Features:
  - **Periodic Table NFT Collection**: Every element in the periodic table will have its own unique NFT representation. These NFTs will be designed with creative visuals to reflect each element's properties, symbol, and atomic structure. From the most common elements like Hydrogen to the rare and precious ones like Osmium, you'll find an NFT for every single element.
@@ -22,4 +25,5 @@ Each element from Mendeleïev's iconic chart is represented by a limited-edition
 
 ElementCoin ($ELEMENT) is designed to combine fun, education, and the thrill of collecting rare digital assets. Start your journey today, and let the elements of the universe come to life in your wallet!
 
-![gold](https://github.com/user-attachments/assets/3fd978f6-8261-4f56-a5c5-ceab030551d8)
+
+<img src="https://github.com/user-attachments/assets/3fd978f6-8261-4f56-a5c5-ceab030551d8" width="50%"/>
